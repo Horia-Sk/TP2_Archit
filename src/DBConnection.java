@@ -19,8 +19,11 @@ public class DBConnection {
 	    public Connection getConn() {
 			return conn;
 		}
+//commentaire 
 
-
-		
+		//2comm
 	
 }
+//commentaire 
+//commentaire 
+//commentaire 
